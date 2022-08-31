@@ -39,6 +39,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 
 <h3> Java </h3>
 <li> https://docs.oracle.com/en/java/javase/18/index.html </li>
+<li> https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html </li>
 
 <br>
 
