@@ -10,7 +10,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <h3> React </h3>
 <li> https://pt-br.reactjs.org/tutorial/tutorial.html </li>
 <li> https://pt-br.reactjs.org/docs/optimizing-performance.html#examples </li>
-<li> https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started </li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started"> React getting started -> MDN </a></li>
 
 <br>
 
@@ -40,6 +40,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <h3> Java </h3>
 <li> https://docs.oracle.com/en/java/javase/18/index.html </li>
 <li> https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html </li>
+<li> https://learnjavaonline.org/en/Hello%2C_World%21 </li>
 
 <br>
 
