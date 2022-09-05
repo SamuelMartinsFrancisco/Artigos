@@ -63,6 +63,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://developer.mozilla.org/pt-BR/ </li>
 <li> https://ionic.io/ionicons </li>
 <li> https://www.alura.com.br/dev-em-t </li>
+<li> https://www.npmjs.com/package/uuid </li>
 
 <br>
 
