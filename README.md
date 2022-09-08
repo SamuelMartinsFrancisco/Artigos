@@ -46,6 +46,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 
 <h3> Git </h3>
 <li> https://metring.com.br/para-que-serve-o-git-fetch-vs-pull </li>
+<li> https://www.hostinger.com.br/tutoriais/git-branch </li>
 
 <br>
 
