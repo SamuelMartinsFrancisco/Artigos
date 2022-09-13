@@ -52,6 +52,11 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 
 <br>
 
+<h3> Projetos open source </h3>
+<li> https://github.com/justinfrankel/licecap </li>
+
+<br>
+
 <h3> Outras coisas mais </h3>
 <li> https://kinsta.com/pt/blog/angular-vs-react/ </li>
 <li> https://freehelper.com.br/ </li>
