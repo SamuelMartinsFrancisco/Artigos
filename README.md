@@ -54,6 +54,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 
 <h3> Projetos open source </h3>
 <li> https://github.com/justinfrankel/licecap </li>
+<li> https://github.com/KDE/krita </li>
 
 <br>
 
