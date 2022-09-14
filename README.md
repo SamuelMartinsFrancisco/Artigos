@@ -58,6 +58,11 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 
 <br>
 
+<h3> Segurança </h3>
+<li> https://esecurity.com.br/cursos/kali-linux-for-beginners/#horas-complementaresa414-263a </li>
+
+<br>
+
 <h3> Outras coisas mais </h3>
 <li> https://kinsta.com/pt/blog/angular-vs-react/ </li>
 <li> https://freehelper.com.br/ </li>
