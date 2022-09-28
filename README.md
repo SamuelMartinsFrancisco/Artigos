@@ -11,6 +11,8 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://pt-br.reactjs.org/tutorial/tutorial.html </li>
 <li> https://pt-br.reactjs.org/docs/optimizing-performance.html#examples </li>
 <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started"> React getting started -> MDN </a></li>
+<li> https://stackoverflow.com/questions/72641816/react-js-constructor-vs-usestate-whats-the-difference </li>
+<li> https://pt.stackoverflow.com/questions/484875/state-retornando-valor-errado-atrasado </li>
 
 <br>
 
