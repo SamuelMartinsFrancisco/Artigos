@@ -22,6 +22,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://html.spec.whatwg.org/multipage/ </li>
 <li><a href="https://blog.geekhunter.com.br/voce-conhece-html-semantico/#:~:text=O%20HTML%20sem%C3%A2ntico%20%C3%A9%20a,mais%20f%C3%A1cil%20de%20interpretar%20p%C3%A1ginas."> HTML Semântico </a></li>
 <li> https://www.homehost.com.br/blog/tutoriais/formulario-html/ </li>
+<li> https://developer.mozilla.org/pt-BR/docs/Web/API/File_API/Using_files_from_web_applications </li>
 
 <br>
 
