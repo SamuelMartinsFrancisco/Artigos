@@ -30,7 +30,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://www.felipefialho.com/blog/do-sass-e-bem-ao-css-in-js-a-evolucao-do-css-ao-longo-da-historia/ </li>
 <li> https://coolors.co/ </li>
 <li> https://sass-lang.com/documentation/ </li>
-<li> https://medium.com/collabcode/pare-de-chutar-e-aprenda-as-propriedades-css-de-posicionamento-603154655121 </li>
+<li> https://medium.com/collabcode/pare-de-chutar-e-aprenda-as-propriedades-css-de-posicionamento-603154655121 ✓</li>
 
 <br>
 
@@ -94,4 +94,5 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> http://www.inmemories.com/index.htm </li>
 <li> https://www.memorialdosmunicipios.com.br/home </li>
 
-
+<br>
+✓
