@@ -37,7 +37,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <h3> JavaScript </h3>
 <li> https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest </li>
 <li> https://developer.mozilla.org/pt-BR/docs/Web/Guide/AJAX </li>
-<li> https://www.baeldung.com/ </li>
+<li> https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Object_initializer#nomes_de_propriedades_computados </li>
 
 <br>
 
@@ -45,6 +45,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://docs.oracle.com/en/java/javase/18/index.html </li>
 <li> https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html </li>
 <li> https://learnjavaonline.org/en/Hello%2C_World%21 </li>
+<li> https://www.baeldung.com/ </li> 
 
 <br>
 
