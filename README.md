@@ -26,6 +26,11 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 
 <br>
 
+<h3> Markdown </h3>
+<li> https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet </li>
+
+<br>
+
 <h3> CSS </h3>
 <li> https://www.felipefialho.com/blog/do-sass-e-bem-ao-css-in-js-a-evolucao-do-css-ao-longo-da-historia/ </li>
 <li> https://coolors.co/ </li>
