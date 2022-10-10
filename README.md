@@ -69,6 +69,8 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <br>
 
 <h3> Segurança </h3>
+<li> https://github.com/wh0isdxk/DesenvolvimentoSeguro </li>
+<li> https://owasp.org/ </li>
 <li> https://esecurity.com.br/cursos/kali-linux-for-beginners/#horas-complementaresa414-263a </li>
 
 <br>
