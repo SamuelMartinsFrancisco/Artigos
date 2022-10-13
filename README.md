@@ -14,6 +14,8 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://stackoverflow.com/questions/72641816/react-js-constructor-vs-usestate-whats-the-difference </li>
 <li> https://pt.stackoverflow.com/questions/484875/state-retornando-valor-errado-atrasado </li>
 <li> https://www.freecodecamp.org/portuguese/news/como-ser-um-especialista-em-setstate-em-react-em-10-minutos/ </li>
+<li> https://redux.js.org/ </li>
+<li> https://gabrieluizramos.com.br/context-redux-e-gerenciamento-de-estado </li>
 
 <br>
 
