@@ -92,6 +92,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://www.npmjs.com/package/uuid </li>
 <li> https://github.com/ai/nanoid/ </li>
 <li> https://web.dev/i18n/pt/vitals/#visao-geral </li>
+<li> https://a.singlediv.com/divtober2021/ </li>
 
 <br>
 
