@@ -80,11 +80,16 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 
 <br>
 
+<h3> APIs públicas </h3>
+<li> https://any-api.com/ </li> 
+<li> https://api.nasa.gov/ </li>
+ 
+<br>
+
 <h3> Outras coisas mais </h3>
 <li> https://kinsta.com/pt/blog/angular-vs-react/ </li>
 <li> https://freehelper.com.br/ </li>
 <li> https://vscodethemes.com/ </li>
-<li> https://api.nasa.gov/ </li>
 <li> https://www.kaggle.com/ </li>
 <li> https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Client-side_web_APIs/Introduction </li>
 <li> https://www.devmedia.com.br/arquitetura-de-software-desenvolvimento-orientado-para-arquitetura/8033 </li>
