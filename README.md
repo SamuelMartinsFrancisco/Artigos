@@ -86,6 +86,14 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
  
 <br>
 
+<h3> Icons, Illustrações, Imagens </h3>
+<li> https://ionic.io/ionicons </li>
+<li> https://devicon.dev/ </li>
+<li> https://storyset.com/ </li>
+<li> https://animationscreencaps.com/ </li>
+
+<br> 
+
 <h3> Outras coisas mais </h3>
 <li> https://kinsta.com/pt/blog/angular-vs-react/ </li>
 <li> https://freehelper.com.br/ </li>
@@ -97,7 +105,6 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://github.com/florinpop17/app-ideas </li>
 <li> https://freefrontend.com/ </li>
 <li> https://developer.mozilla.org/pt-BR/ </li>
-<li> https://ionic.io/ionicons </li>
 <li> https://www.alura.com.br/dev-em-t </li>
 <li> https://www.npmjs.com/package/uuid </li>
 <li> https://github.com/ai/nanoid/ </li>
