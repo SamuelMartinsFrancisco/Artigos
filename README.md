@@ -111,6 +111,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://web.dev/i18n/pt/vitals/#visao-geral </li>
 <li> https://a.singlediv.com/divtober2021/ </li>
 <li> https://learn.microsoft.com/pt-br/training/ </li>
+<li> https://regex101.com/ </li>
 
 <br>
 
