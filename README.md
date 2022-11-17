@@ -30,6 +30,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 
 <h3> Markdown </h3>
 <li> https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet </li>
+<li> https://gist.github.com/rxaviers/7360908 </li>
 
 <br>
 
