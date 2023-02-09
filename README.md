@@ -84,6 +84,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <h3> APIs públicas </h3>
 <li> https://any-api.com/ </li> 
 <li> https://api.nasa.gov/ </li>
+<li> https://docs.github.com/en/rest/overview/endpoints-available-for-github-apps?apiVersion=2022-11-28 </li>
  
 <br>
 
@@ -92,6 +93,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://devicon.dev/ </li>
 <li> https://storyset.com/ </li>
 <li> https://animationscreencaps.com/ </li>
+<li> https://iconscout.com </li>
 
 <br> 
 
@@ -113,6 +115,10 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://a.singlediv.com/divtober2021/ </li>
 <li> https://learn.microsoft.com/pt-br/training/ </li>
 <li> https://regex101.com/ </li>
+<li> https://www.browserling.com/ </li>
+<li> <a href="https://medium.com/nerd-for-tech/google-chrome-how-to-inspect-websites-on-mobile-devices-804677f863ce#:~:text=Open%20Chrome%20browser%20and%20navigate%20to%20chrome%3A%2F%2Finspect%20."> Como inspecionar websites por meio de dispositivos móveis </a> </li>
+<li> https://demo.coolify.io/login </li>
+<li> https://bohr.io/ </li>
 
 <br>
 
@@ -124,6 +130,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> https://www.memorialdosmunicipios.com.br/home </li>
 <li> https://cidades.ibge.gov.br/ </li>
 <li> http://www.matosdecomer.com.br/ </li>
+<li> https://pt.ifixit.com/ </li>
 
 <br>
 ✓
