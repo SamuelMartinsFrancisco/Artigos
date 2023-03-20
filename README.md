@@ -120,6 +120,7 @@ Listagem de artigos, vídeos, e documentações ainda não vistos, para futuras 
 <li> <a href="https://medium.com/nerd-for-tech/google-chrome-how-to-inspect-websites-on-mobile-devices-804677f863ce#:~:text=Open%20Chrome%20browser%20and%20navigate%20to%20chrome%3A%2F%2Finspect%20."> Como inspecionar websites por meio de dispositivos móveis </a> </li>
 <li> https://demo.coolify.io/login </li>
 <li> https://bohr.io/ </li>
+<li> https://www.w3c.br/Home/WebHome/ </li>
 
 <br>
 
